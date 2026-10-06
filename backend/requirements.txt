@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart    # file uploads
+pymupdf             # PDF text extraction
+python-dotenv       # reads the .env file
+groq                # optional AI review layer (no key = feature just off)
